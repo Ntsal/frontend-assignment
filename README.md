@@ -19,7 +19,7 @@ json-server --watch database.json
 You can start JSON Server on other ports with the `--port` flag:
 
 ```bash
-$ json-server --watch database.json --port 3004
+json-server --watch database.json --port 3004
 ```
 
 ### Alternative way to start JSON Server
