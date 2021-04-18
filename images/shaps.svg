@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="471px" height="475px" viewBox="0 0 471 475" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>shaps</title>
+    <defs>
+        <filter id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.847059 0 0 0 0 0.847059 0 0 0 0 0.847059 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+        <filter id="filter-2">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.847000 0 0 0 0 0.847000 0 0 0 0 0.847000 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Home" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Shipping-address" transform="translate(-629.000000, -139.000000)">
+            <g id="shaps" transform="translate(629.000000, 139.000000)">
+                <g filter="url(#filter-1)" id="pattern_3">
+                    <g transform="translate(158.000000, -0.000000)">
+                        <polygon id="Path" fill="#F3BEB3" fill-rule="nonzero" points="0 5.68434189e-14 0 13 13 5.68434189e-14"></polygon>
+                        <polygon id="Path" fill="#F3BEB3" fill-rule="nonzero" points="29.5298054 5.68434189e-14 0 29.5118541 0 43 43 5.68434189e-14"></polygon>
+                        <polygon id="Path" fill="#F3BEB3" fill-rule="nonzero" points="58.6666667 5.68434189e-14 0 58.6666667 0 72 72 5.68434189e-14"></polygon>
+                        <polygon id="Path" fill="#F3BEB3" fill-rule="nonzero" points="88.5926493 5.68434189e-14 0 88.5926493 0 102 102 5.68434189e-14"></polygon>
+                        <polygon id="Path" fill="#F3BEB3" fill-rule="nonzero" points="117.651167 5.68434189e-14 0 117.651167 0 131 131 5.68434189e-14"></polygon>
+                        <polygon id="Path" fill="#F3BEB3" fill-rule="nonzero" points="147.607172 5.68434189e-14 0 147.607172 0 161 161 5.68434189e-14"></polygon>
+                        <polygon id="Path" fill="#F3BEB3" fill-rule="nonzero" points="177.576829 5.68434189e-14 0 177.574997 0 191 191 5.68434189e-14"></polygon>
+                        <polygon id="Path" fill="#F3BEB3" fill-rule="nonzero" points="206.613894 5.68434189e-14 0 206.613894 0 220 220 5.68434189e-14"></polygon>
+                        <polygon id="Path" fill="#F3BEB3" fill-rule="nonzero" points="236.589939 5.68434189e-14 0 236.614583 0 250 250 5.68434189e-14"></polygon>
+                        <polygon id="Path" fill="#F3BEB3" fill-rule="nonzero" points="265.61777 5.68434189e-14 0 265.61777 0 279 279 5.68434189e-14"></polygon>
+                        <polygon id="Path" fill="#F3BEB3" fill-rule="nonzero" points="295.598029 5.68434189e-14 0 295.598029 0 309 309 5.68434189e-14"></polygon>
+                        <polygon id="Path" fill="#F3BEB3" fill-rule="nonzero" points="313 25.3922246 313 12 12 313 25.3922246 313"></polygon>
+                        <polygon id="Path" fill="#F3BEB3" fill-rule="nonzero" points="55.3708565 313 313 55.3708565 313 42 42 313"></polygon>
+                        <polygon id="Path" fill="#F3BEB3" fill-rule="nonzero" points="84.3996344 313 313 84.3981939 313 71 71 313"></polygon>
+                        <polygon id="Path" fill="#F3BEB3" fill-rule="nonzero" points="114.371709 313 313 114.371709 313 101 101 313"></polygon>
+                        <polygon id="Path" fill="#F3BEB3" fill-rule="nonzero" points="143.409932 313 313 143.434059 313 130 130 313"></polygon>
+                        <polygon id="Path" fill="#F3BEB3" fill-rule="nonzero" points="173.373218 313 313 173.373218 313 160 160 313"></polygon>
+                        <polygon id="Path" fill="#F3BEB3" fill-rule="nonzero" points="202.430074 313 313 202.403996 313 189 189 313"></polygon>
+                        <polygon id="Path" fill="#F3BEB3" fill-rule="nonzero" points="232.354339 313 313 232.376623 313 219 219 313"></polygon>
+                        <polygon id="Path" fill="#F3BEB3" fill-rule="nonzero" points="261.487107 313 313 261.487107 313 248 248 313"></polygon>
+                        <polygon id="Path" fill="#F3BEB3" fill-rule="nonzero" points="291.375465 313 313 291.39153 313 278 278 313"></polygon>
+                        <polygon id="Path" fill="#F3BEB3" fill-rule="nonzero" points="313 313 313 308 308 313"></polygon>
+                    </g>
+                </g>
+                <g filter="url(#filter-2)" id="shape_semi-thick-circle">
+                    <g transform="translate(0.000000, 155.999997)">
+                        <path d="M159.998732,72.0000028 C195.189136,72.0000028 226.913907,93.1997813 240.377914,125.712627 C253.841921,158.225472 246.393232,195.647507 221.505609,220.526631 C196.617986,245.405755 159.19341,252.841661 126.685167,239.366548 C94.1769241,225.891435 72.9879865,194.159423 73,158.96902 C73.0491642,110.946135 111.975835,72.0327578 159.998732,72.0000028 M159.531981,2.77467853e-06 C95.0184985,-0.0119880323 36.8507603,38.8407659 12.1542083,98.4400092 C-12.5423437,158.039252 1.09627991,226.646906 46.709961,272.269067 C92.323642,317.891229 160.92876,331.542608 220.532595,306.857138 C280.13643,282.171668 319,224.011156 319,159.497673 C319,71.4211221 247.608532,0.0163797003 159.531981,2.77467853e-06 L159.531981,2.77467853e-06 Z" id="Shape" fill="#B02239" fill-rule="nonzero"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
